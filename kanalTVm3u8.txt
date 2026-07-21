@@ -1,0 +1,10 @@
+------- KANAL 19 M3U8 -------
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+------- GRT TV M3U8 -------
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+------- EURO D M3U8 -------
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+------- BEYAZ TV M3U8 -------
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_360p.m3u8
+------- iTV M3U8 ------
+
