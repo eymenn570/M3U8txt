@@ -1,0 +1,4 @@
+--------- RTNC HD M3U8 ---------
+https://tnt-television.com/rtnc_HD/tracks-v1a1/mono.m3u8
+--------- GEOPOLIS TV M3U8 ---------
+https://tnt-television.com/Geopolis_tv/index.m3u8
