@@ -1,0 +1,26 @@
+------- KANAL 19 M3U8 -------
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+------- GRT TV M3U8 -------
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+------- EURO D M3U8 -------
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+------- BEYAZ TV M3U8 -------
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+------- SAGLIK CHANNEL M3U8 ------
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+-------- FB TV HD  M3U8 --------
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist_1080p.m3u8
+-------- NTV HD M3U8 ---------
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+-------- TVNET HD M3U8 --------
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist_1080p.m3u8
+-------- TRT HABER HD M3U8 ---------
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+-------- TV 3 M3U8 -----------
+https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8
+--------- MOR TV M3U8 ---------
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+--------- KOY TV M3U8 ---------
+https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w1524600925.m3u8
+--------- KANAL B M3U8 --------
+https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w1524600925.m3u8
