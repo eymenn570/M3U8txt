@@ -23,7 +23,7 @@ https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
 --------- KOY TV M3U8 ---------
 https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w1524600925.m3u8
 --------- KANAL B M3U8 --------
-https://yayin1.canlitv.fun/canlitv/koytv.stream/chunklist_w1524600925.m3u8
+https://tv.kanalb.tr/hls/kanalb/index.m3u8
 --------- NORTHERN CYPRUS TURKISH REPUBLIC --------
 --------- KIBRIS GENC TV M3U8 ---------
 https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w98622280.m3u8
@@ -33,3 +33,4 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 --------- BRT 2 HD M3U8 --------
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+
