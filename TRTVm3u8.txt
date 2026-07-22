@@ -8,6 +8,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 ------- SAGLIK CHANNEL M3U8 ------
 https://live.euromediacenter.com/saglikchannel/index.m3u8
+------- YABAN TV M3U8 -----
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8
 -------- FB TV HD  M3U8 --------
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist_1080p.m3u8
 -------- NTV HD M3U8 ---------
@@ -33,4 +35,29 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 --------- BRT 2 HD M3U8 --------
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+--------- AZERBAIJAN ----------
+--------- AZ TV M3U8 ----------
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+---------- SİVİLİZASİYA TV M3U8 --------
+https://str.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
+---------- SPACE TV M3U8 --------
+https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w1626013225.m3u8
+---------- İDMAN TV M3U8 --------
+https://str.yodacdn.net/idmantele/index.m3u8
+----------- RUSSİA ---------
+----------- RUSSİA 24 M3U8 ----------
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+----------- RUSSİA 1 M3U8 --------
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+----------- 360° NOVOSTİ HD M3U8 ---------
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+----------- RT Documentary TV M3U8 ----------
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+----------- RT D TV M3U8 ---------
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+
+
+
+
 
