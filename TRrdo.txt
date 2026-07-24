@@ -1,1 +1,46 @@
+POLİS RADYO:
+https://m.egm.gov.tr:8093/stream?/;stream.mp3
+JOY TURK:
+https://live.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3
+ARVASYA TÜRK:
+https://sslyayin.netyayin.net:10909/;/;stream.mp3
+BABA RADYO:
+https://officialbabaradyo.radyotvonline.net/babaofficial?/;stream.mp3
+90'lar:
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+45'lik:
+https://stream.radyo45lik.com:4545/stream
+HABERTURK RADYO:
+https://haberturkradyo.radyotvonline.net/haberturkradyo?/;stream.mp3
+ESKİSEHİR MAVİ RADYO:
+https://radyo.yayindakiler.com:3140/stream?/;stream.mp3
+BİBER FM:
+https://radyo1.radyo-dinle.tc/8136/stream?/;stream.mp3
+EFKAR:
+https://27943.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
+AFYON KOCATEPE UNİVERSTE:
+https://radyo.aku.edu.tr/radyo?/;stream.mp3
+RADYOHİSAR:
+https://radyo.yayindakiler.com:4006/stream?/;stream.mp3
+ELBİSTAN KENT FM:
+https://radyo.arkacadde.org/4648/elbistankentfm.mp3
+ELBİSTAN RADYO UMUT:
+https://yayin2.canliyayin.org:10953/;/;stream.mp3
+SULTAN RADYO:
+https://yayin.turkhosted.com/sultanradyo/stream?/;stream.mp3
+KAHRAMANMARAŞ FRESH:
+https://canli.radyofresh.com/stream?/;stream.mp3
+24 RADYO:
+https://radyo24.radyotvonline.net/radyo24?/;stream.mp3
+ALEM FM:
+https://alemfm.radyotvonline.net/alemfmaac?/;stream.mp3
+-------- KUZEY KIBRIS RADYOLARI ---------
+KIBRIS NRG ENERJİ:
+https://live.enerjiplay.com/stream/enerji?/;stream.mp3
 
+
+
+------KAYNAK------
+https://canliradyodinle.fm/
+------SPONSOR-----
+GitHub
